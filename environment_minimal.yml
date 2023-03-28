@@ -1,0 +1,13 @@
+name: medeiros_storm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - cgal
+  - openpyxl
+  - ipympl
