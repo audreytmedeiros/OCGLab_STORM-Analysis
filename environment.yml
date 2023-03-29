@@ -1,4 +1,4 @@
-name: audrey_temp
+name: medeiros_storm
 channels:
   - conda-forge
   - defaults
